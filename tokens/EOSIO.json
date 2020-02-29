@@ -1,0 +1,19 @@
+{
+  "name": "EOSIO",
+  "symbol": "EOSIO",
+  "contract": "okkkkkkkkkkk",
+  "issuer": "okkkkkkkkkkk",
+  "precision": 4,
+  "logo": "https://user-images.githubusercontent.com/61506323/75604304-1d757f80-5b12-11ea-944f-ba2ac9c0ac80.png",
+  "desc": {
+    "en": "EOSIO (Enterprise Operation System) is a blockchain smart contract platform developed by Block.one, which aims to provide bottom blockchain platform services for high-performance distributed applications.",
+  
+  },
+  "website": "https://eos.io",
+  "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+  "links": {
+    "github": "https://github.com/EOSIO",
+    "telegram": "https://t.me/joinchat/EOSIO",
+  
+  }
+}
